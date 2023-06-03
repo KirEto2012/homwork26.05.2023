@@ -1,0 +1,15 @@
+C:\Users\ilial\OneDrive\Рабочий стол\Homworkc# 03.06.2023\hw003\bin\Debug\net6.0\hw003.exe
+C:\Users\ilial\OneDrive\Рабочий стол\Homworkc# 03.06.2023\hw003\bin\Debug\net6.0\hw003.deps.json
+C:\Users\ilial\OneDrive\Рабочий стол\Homworkc# 03.06.2023\hw003\bin\Debug\net6.0\hw003.runtimeconfig.json
+C:\Users\ilial\OneDrive\Рабочий стол\Homworkc# 03.06.2023\hw003\bin\Debug\net6.0\hw003.dll
+C:\Users\ilial\OneDrive\Рабочий стол\Homworkc# 03.06.2023\hw003\bin\Debug\net6.0\hw003.pdb
+C:\Users\ilial\OneDrive\Рабочий стол\Homworkc# 03.06.2023\hw003\obj\Debug\net6.0\hw003.csproj.AssemblyReference.cache
+C:\Users\ilial\OneDrive\Рабочий стол\Homworkc# 03.06.2023\hw003\obj\Debug\net6.0\hw003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilial\OneDrive\Рабочий стол\Homworkc# 03.06.2023\hw003\obj\Debug\net6.0\hw003.AssemblyInfoInputs.cache
+C:\Users\ilial\OneDrive\Рабочий стол\Homworkc# 03.06.2023\hw003\obj\Debug\net6.0\hw003.AssemblyInfo.cs
+C:\Users\ilial\OneDrive\Рабочий стол\Homworkc# 03.06.2023\hw003\obj\Debug\net6.0\hw003.csproj.CoreCompileInputs.cache
+C:\Users\ilial\OneDrive\Рабочий стол\Homworkc# 03.06.2023\hw003\obj\Debug\net6.0\hw003.dll
+C:\Users\ilial\OneDrive\Рабочий стол\Homworkc# 03.06.2023\hw003\obj\Debug\net6.0\refint\hw003.dll
+C:\Users\ilial\OneDrive\Рабочий стол\Homworkc# 03.06.2023\hw003\obj\Debug\net6.0\hw003.pdb
+C:\Users\ilial\OneDrive\Рабочий стол\Homworkc# 03.06.2023\hw003\obj\Debug\net6.0\hw003.genruntimeconfig.cache
+C:\Users\ilial\OneDrive\Рабочий стол\Homworkc# 03.06.2023\hw003\obj\Debug\net6.0\ref\hw003.dll
