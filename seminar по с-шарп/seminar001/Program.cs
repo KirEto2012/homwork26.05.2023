@@ -119,7 +119,7 @@ int x2 = int.Parse(Console.ReadLine());
 Console.Write("y2 = ");
 int y2 = int.Parse(Console.ReadLine());
 */
-
+/*
 Console.Write("x1 = ");
 int x1 = int.Parse(Console.ReadLine());
 Console.Write("y1 = ");
@@ -148,40 +148,6 @@ double DistancePoints(int x1, int y1,int x2, int y2,int z1, int z2)
 
     return Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2) + Math.Pow(z2 - z1, 2));
 }
-
-/*
-Console.WriteLine("Ввелите число");
-Console.Write("number = ");
-int n = int.Parse(Console.ReadLine());
-
-PrintSquares(n);
-
-int [] result = GetSquares(n);
-
-Console.WriteLine();
-
-Console.WriteLine(string.Join(" ", result));
-
-void PrintSquares(int number)
-{
-    for(int i = 1; i <= number; i++)
-    {
-        Console.Write(i * i);
-        Console.Write(" ");
-    }
-}
-
-int[] GetSquares(int number)
-{
-    int[] tableOFSquares =  new int [number];
-
-    for(int i = 0; i < tableOFSquares.Length; i++)
-    {
-        int tmp = i + 1;
-        tableOFSquares[i] = tmp * tmp;
-    }
-    return tableOFSquares; 
-}
 */
 /*
 Console.WriteLine("Ввелите число");
@@ -216,5 +182,38 @@ int[] GetSquares(int number)
     }
     return tableOFSquares; 
 }
-
 */
+
+Console.WriteLine("Ввелите число");
+Console.Write("number = ");
+int n = int.Parse(Console.ReadLine());
+
+PrintSquares(n);
+
+int [] result = GetSquares(n);
+
+Console.WriteLine();
+
+Console.WriteLine(string.Join(" ", result));
+
+void PrintSquares(int number)
+{
+    for(int i = 1; i <= number; i++)
+    {
+        Console.Write(i * i);
+        Console.Write(" ");
+    }
+}
+
+int[] GetSquares(int number)
+{
+    int[] tableOFSquares =  new int [number];
+
+    for(int i = 0; i < tableOFSquares.Length; i++)
+    {
+        int tmp = i + 1;
+        tableOFSquares[i] = tmp * tmp;
+    }
+    return tableOFSquares; 
+}
+
