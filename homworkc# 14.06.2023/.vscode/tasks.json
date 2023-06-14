@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/задачя.41/задачя.41.csproj",
+                "${workspaceFolder}/task.41.14.06.2023/task.41.14.06.2023.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/задачя.41/задачя.41.csproj",
+                "${workspaceFolder}/task.41.14.06.2023/task.41.14.06.2023.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/задачя.41/задачя.41.csproj"
+                "${workspaceFolder}/task.41.14.06.2023/task.41.14.06.2023.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
