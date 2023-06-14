@@ -3,7 +3,7 @@
 0, 7, 8, -2, -2 -> 2
 1, -7, 567, 89, 223-> 3
 */
-/*
+
 Console.WriteLine("Введите числа с запятой");
 int[] array = StringToArray(Console.ReadLine());
 
@@ -53,4 +53,4 @@ int[] StringToArray(string input)
     }
     return num;
 
-}*/
+}
