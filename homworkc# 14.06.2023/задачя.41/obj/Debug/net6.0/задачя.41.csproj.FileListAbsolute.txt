@@ -1,0 +1,15 @@
+C:\Users\ilial\OneDrive\Рабочий стол\homworkc# 14.06.2023\задачя.41\bin\Debug\net6.0\задачя.41.exe
+C:\Users\ilial\OneDrive\Рабочий стол\homworkc# 14.06.2023\задачя.41\bin\Debug\net6.0\задачя.41.deps.json
+C:\Users\ilial\OneDrive\Рабочий стол\homworkc# 14.06.2023\задачя.41\bin\Debug\net6.0\задачя.41.runtimeconfig.json
+C:\Users\ilial\OneDrive\Рабочий стол\homworkc# 14.06.2023\задачя.41\bin\Debug\net6.0\задачя.41.dll
+C:\Users\ilial\OneDrive\Рабочий стол\homworkc# 14.06.2023\задачя.41\bin\Debug\net6.0\задачя.41.pdb
+C:\Users\ilial\OneDrive\Рабочий стол\homworkc# 14.06.2023\задачя.41\obj\Debug\net6.0\задачя.41.csproj.AssemblyReference.cache
+C:\Users\ilial\OneDrive\Рабочий стол\homworkc# 14.06.2023\задачя.41\obj\Debug\net6.0\задачя.41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilial\OneDrive\Рабочий стол\homworkc# 14.06.2023\задачя.41\obj\Debug\net6.0\задачя.41.AssemblyInfoInputs.cache
+C:\Users\ilial\OneDrive\Рабочий стол\homworkc# 14.06.2023\задачя.41\obj\Debug\net6.0\задачя.41.AssemblyInfo.cs
+C:\Users\ilial\OneDrive\Рабочий стол\homworkc# 14.06.2023\задачя.41\obj\Debug\net6.0\задачя.41.csproj.CoreCompileInputs.cache
+C:\Users\ilial\OneDrive\Рабочий стол\homworkc# 14.06.2023\задачя.41\obj\Debug\net6.0\задачя.41.dll
+C:\Users\ilial\OneDrive\Рабочий стол\homworkc# 14.06.2023\задачя.41\obj\Debug\net6.0\refint\задачя.41.dll
+C:\Users\ilial\OneDrive\Рабочий стол\homworkc# 14.06.2023\задачя.41\obj\Debug\net6.0\задачя.41.pdb
+C:\Users\ilial\OneDrive\Рабочий стол\homworkc# 14.06.2023\задачя.41\obj\Debug\net6.0\задачя.41.genruntimeconfig.cache
+C:\Users\ilial\OneDrive\Рабочий стол\homworkc# 14.06.2023\задачя.41\obj\Debug\net6.0\ref\задачя.41.dll
