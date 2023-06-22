@@ -51,7 +51,7 @@ int[,] GenerateRandom2DArray(int m, int n)
     {
         for (var j = 0; j < array.GetLength(1); j++)
         {
-            array[i, j] = random.Next(1, 10);
+            array[i, j] = random.Next(0, 10);
         }
     }
 
