@@ -9,6 +9,8 @@
 15 18
 */
 
+//неразобрался как сделать в методе 
+
 int rows = ReadLine("Введите склько хотите строк: ");
 int columns = ReadLine("Введите склько хотите столбцов: ");
 
@@ -24,11 +26,13 @@ Console.WriteLine("Вторая матрица");
 GenerateRandom2DArray(array2);
 PrintArray(array2);
 
+
 if (array.GetLength(0) != array2.GetLength(1))
 {
     Console.WriteLine(" error ");
     return;
 }
+
 for (int i = 0; i < array.GetLength(0); i++)
 {
     for (int j = 0; j < array2.GetLength(1); j++)
@@ -40,17 +44,11 @@ for (int i = 0; i < array.GetLength(0); i++)
         }
     }
 }
+
 Console.WriteLine("Результирующая матрица будет = ");
 PrintArray(sumArray);
 
-int ReadLine(string enteringArrayValues)
-{
-    Console.Write(enteringArrayValues);
-    return Convert.ToInt32(Console.ReadLine());
-}
-
-
-// генирирует рандомный массив
+// генирирует рандрмные числа в масиве 
 void GenerateRandom2DArray(int[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
@@ -74,6 +72,11 @@ void PrintArray(int[,] array)
     }
 }
 
+int ReadLine(string enteringArrayValues)
+{
+    Console.Write(enteringArrayValues);
+    return Convert.ToInt32(Console.ReadLine());
+}
 
 
 
