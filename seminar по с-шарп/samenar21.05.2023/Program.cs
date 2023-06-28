@@ -19,7 +19,7 @@ else
 
 
 
-
+/*
 
 int randomNumberA = int.Parse(Console.ReadLine());
 
@@ -30,7 +30,7 @@ int first = randomNumberA / 100 ;
 
 Console.WriteLine(first * 10 + lastDigit);
 
-
+*/
 
 
 
